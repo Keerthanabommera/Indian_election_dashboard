@@ -5,12 +5,12 @@ This project is an interactive Power BI dashboard that provides deep insights in
 
 <h3>📁 Project Structure</h3>
 
-Data Integration & Modeling: Import and transformation of CSV/Excel data, normalization, and star schema creation.
+<h5>Data Integration & Modeling:</h5> Import and transformation of CSV/Excel data, normalization, and star schema creation.
 
-Historical Trends: Visualization of vote shares, turnout trends, and party performance over multiple years.
+<h5>Historical Trends:</h5> Visualization of vote shares, turnout trends, and party performance over multiple years.
 
-Real-Time Results: Live or mock integration of vote counts with dynamic visuals and filters.
+<h5>Real-Time Results:</h5> Live or mock integration of vote counts with dynamic visuals and filters.
 
-Demographics & Turnout: Insights by gender, age group, and geography with heatmaps and pie charts.
+<h5>Demographics & Turnout:</h5> Insights by gender, age group, and geography with heatmaps and pie charts.
 
-Party & Candidate Performance: Drill-through analysis down to constituency level, win margins, and alliance strength.
+<h5>Party & Candidate Performance:</h5> Drill-through analysis down to constituency level, win margins, and alliance strength.
