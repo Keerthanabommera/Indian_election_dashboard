@@ -1,7 +1,7 @@
 <h1>Election Insights Dashboard</h1>
 <h3>📊 Overview</h3>
 
-This project is an interactive Power BI dashboard that provides deep insights into Indian election data. It analyzes historical and current results, candidate performance, voter turnout, demographics, and urban-rural voting behavior. The dashboard is designed to help users drill down from national-level trends to constituency-level details.
+This project is an interactive Power BI dashboard that provides deep insights into Indian election data. It analyzes historical and current results, candidate performance, voter turnout, demographics, and urban-rural voting behavior.The dashboard is designed to help users drill down from national-level trends to constituency-level details.
 
 <h3>📁 Project Structure</h3>
 
